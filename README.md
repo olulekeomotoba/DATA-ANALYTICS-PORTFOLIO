@@ -14,7 +14,7 @@
 - Power BI Development: Proficient in creating interactive dashboards and reports to visualize data trends and patterns.
 - SQL: Proficient in writing SQL queries for data extraction and manipulation from various database systems.
 
-# Project Highlights:
+# 🛠Project Highlights:
 Developed comprehensive sales analysis dashboards to track and visualize regional sales performance.
 Constructed financial reports showcasing key metrics and KPIs for executive decision-making.
 Collaborated with cross-functional teams to analyze customer behavior and enhance marketing strategies.
