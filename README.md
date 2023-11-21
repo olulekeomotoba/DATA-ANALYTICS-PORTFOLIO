@@ -18,8 +18,10 @@
 Developed comprehensive sales analysis dashboards to track and visualize regional sales performance.
 Constructed financial reports showcasing key metrics and KPIs for executive decision-making.
 Collaborated with cross-functional teams to analyze customer behavior and enhance marketing strategies.
-# Goals:
+# 📚Goals:
 Continuously seeking opportunities to expand my knowledge in data analytics, machine learning, and AI to contribute innovative solutions in the evolving data landscape.
 
-Let's Connect:
+🔗Let's Connect:
 I'm passionate about data and its potential to drive informed decisions. Whether it's discussing data strategies, collaborating on projects, or exploring opportunities, I'm open to connecting and sharing insights.
+
+Happy analyzing! 📊🔍
