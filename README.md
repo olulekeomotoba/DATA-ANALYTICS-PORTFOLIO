@@ -1,8 +1,10 @@
 # DATA-ANALYTICS-PORTFOLIO
 # ABOUT ME
-I am a dedicated and results-driven Data Analyst specializing in leveraging the power of data to extract meaningful insights. With a passion for transforming raw data into actionable information, I thrive on translating complex datasets into compelling visual stories using Power BI.
+👋 Hello there!I'm Oluleke Omotoba, a dedicated and results-driven Data Analyst specializing in leveraging the power of data to extract meaningful insights. With a passion for transforming raw data into actionable information, I thrive on translating complex datasets into compelling visual stories using Power BI.
 
-# Skills and Expertise:
+🚀 Why Data? Data, for me, is more than just nrmbers and charts; it's the key to unraveling stories hidden within. I believe in the power of data to drive informed decision-making and bring about positive change.
+
+# 🧰Skills and Expertise:
 Power BI Development: Proficient in creating interactive dashboards and reports to visualize data trends and patterns.
 Data Extraction and Transformation: Skilled in data wrangling, cleaning, and modeling to ensure data accuracy and consistency.
 Statistical Analysis: Capable of conducting statistical analysis and applying analytical methodologies to extract valuable insights.
