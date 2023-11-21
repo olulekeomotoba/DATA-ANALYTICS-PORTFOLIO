@@ -9,6 +9,7 @@
 - Statistical Analysis: Capable of conducting statistical analysis and applying analytical methodologies to extract valuable insights.
 - Problem-Solving: Strong analytical and problem-solving skills to identify business challenges and provide data-driven solutions.
 - Data Visualization: Experience in creating visually compelling charts, graphs, and heatmaps to communicate complex data effectively.
+  
 **🔧Toolbox:**
 - Power BI Development: Proficient in creating interactive dashboards and reports to visualize data trends and patterns.
 - SQL: Proficient in writing SQL queries for data extraction and manipulation from various database systems.
