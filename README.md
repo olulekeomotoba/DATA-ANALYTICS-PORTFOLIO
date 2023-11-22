@@ -26,7 +26,7 @@ Continuously seeking opportunities to expand my knowledge in data analytics, mac
 🔗Let's Connect:
 - [Curriculum Vitae](https://github.com/olulekeomotoba/DATA-ANALYTICS-PORTFOLIO/files/13432712/My.Power.BI.CV.pdf)
 - [LinkedIn](https://linkedin.com/in/oluleke-omotoba-6a1b61296)
-- [Email Address](https://omotobaoluleke1@gmail.com)
+- [Email Address](mailto:omotobaoluleke1@gmail.com)
 
 I'm passionate about data and its potential to drive informed decisions. Whether it's discussing data strategies, collaborating on projects, or exploring opportunities, I'm open to connecting and sharing insights.
 
