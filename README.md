@@ -21,6 +21,9 @@ Constructed financial reports showcasing key metrics and KPIs for executive deci
 Collaborated with cross-functional teams to analyze customer behavior and enhance marketing strategies.
 - [Project-2: Product Review Analysis of Northwind Traders Enterprise Ltd.](https://github.com/olulekeomotoba/Project-2/blob/main/README.md)
 This repository showcases a dynamic and interactive Product Review Dashboard built using Power BI. The goal of this project was to analyze and visualize customer reviews and ratings for various products, providing actionable insights to improve product performance and customer satisfaction.
+- [Project-3: HR Management Analysis of Northwind Traders Enterprise Ltd.](https://github.com/olulekeomotoba/Project-3/blob/main/README.md)
+This repository hosts a robust HR Management Dashboard developed with Power BI, specifically designed to analyze and visualize comprehensive employee data, salary trends, and job role analytics. The goal is to provide actionable insights and facilitate informed decision-making for HR and management.
+
 # 📚Goals:
 
 Continuously seeking opportunities to expand my knowledge in data analytics, machine learning, and AI to contribute innovative solutions in the evolving data landscape.
