@@ -19,6 +19,7 @@
 Developed comprehensive sales analysis dashboards to track and visualize regional sales performance.
 Constructed financial reports showcasing key metrics and KPIs for executive decision-making.
 Collaborated with cross-functional teams to analyze customer behavior and enhance marketing strategies.
+- [Project-2: Product Review Analysis of Northwind Traders Enterprise Ltd.](https://github.com/olulekeomotoba/Project-2/blob/main/README.md)
 # 📚Goals:
 
 Continuously seeking opportunities to expand my knowledge in data analytics, machine learning, and AI to contribute innovative solutions in the evolving data landscape.
