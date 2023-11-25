@@ -20,6 +20,7 @@ Developed comprehensive sales analysis dashboards to track and visualize regiona
 Constructed financial reports showcasing key metrics and KPIs for executive decision-making.
 Collaborated with cross-functional teams to analyze customer behavior and enhance marketing strategies.
 - [Project-2: Product Review Analysis of Northwind Traders Enterprise Ltd.](https://github.com/olulekeomotoba/Project-2/blob/main/README.md)
+This repository showcases a dynamic and interactive Product Review Dashboard built using Power BI. The goal of this project was to analyze and visualize customer reviews and ratings for various products, providing actionable insights to improve product performance and customer satisfaction.
 # 📚Goals:
 
 Continuously seeking opportunities to expand my knowledge in data analytics, machine learning, and AI to contribute innovative solutions in the evolving data landscape.
