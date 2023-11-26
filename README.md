@@ -23,6 +23,8 @@ Collaborated with cross-functional teams to analyze customer behavior and enhanc
 This repository showcases a dynamic and interactive Product Review Dashboard built using Power BI. The goal of this project was to analyze and visualize customer reviews and ratings for various products, providing actionable insights to improve product performance and customer satisfaction.
 - [Project-3: HR Management Analysis of Northwind Traders Enterprise Ltd.](https://github.com/olulekeomotoba/Project-3/blob/main/README.md)
 This repository hosts a robust HR Management Dashboard developed with Power BI, specifically designed to analyze and visualize comprehensive employee data, salary trends, and job role analytics. The goal is to provide actionable insights and facilitate informed decision-making for HR and management.
+- [Project-4: Call Centre Analysis of Softclue Global Technologies](https://github.com/olulekeomotoba/Project-4/blob/main/README.md)
+This repository hosts a comprehensive Call Centre Dashboard developed with Power BI, aimed at analyzing and visualizing call data to provide actionable insights and enhance call center performance.
 
 # 📚Goals:
 
