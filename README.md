@@ -27,6 +27,8 @@ This repository hosts a robust HR Management Dashboard developed with Power BI, 
 This repository hosts a comprehensive Call Centre Dashboard developed with Power BI, aimed at analyzing and visualizing call data to provide actionable insights and enhance call center performance.
 - [Project-5: Call Centre Trends Analysis of Softclue Global Technologies](https://github.com/olulekeomotoba/Project-5/blob/main/README.md)
 This repository hosts a robust Call Centre Trends Analysis project utilizing Power BI, emphasizing a comprehensive evaluation of calls and virtual case experiences. The project aims to provide deep insights into call volumes, case resolutions, and overall customer experiences within a call center environment.
+- [Project-6: Ekiti State Electoral Analysis 2014-2022](https://github.com/olulekeomotoba/Project-6)
+This repository hosts an insightful Ekiti State Elections Dashboard developed using Power BI. The project provides a comprehensive analysis of total polling results across various local governments during the Ekiti State elections, offering valuable insights into voting patterns, turnout rates, and candidate performance.
 
 # 📚Goals:
 
