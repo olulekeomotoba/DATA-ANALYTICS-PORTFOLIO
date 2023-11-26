@@ -25,6 +25,8 @@ This repository showcases a dynamic and interactive Product Review Dashboard bui
 This repository hosts a robust HR Management Dashboard developed with Power BI, specifically designed to analyze and visualize comprehensive employee data, salary trends, and job role analytics. The goal is to provide actionable insights and facilitate informed decision-making for HR and management.
 - [Project-4: Call Centre Analysis of Softclue Global Technologies](https://github.com/olulekeomotoba/Project-4/blob/main/README.md)
 This repository hosts a comprehensive Call Centre Dashboard developed with Power BI, aimed at analyzing and visualizing call data to provide actionable insights and enhance call center performance.
+- [Project-5: Call Centre Trends Analysis of Softclue Global Technologies](https://github.com/olulekeomotoba/Project-5/blob/main/README.md)
+This repository hosts a robust Call Centre Trends Analysis project utilizing Power BI, emphasizing a comprehensive evaluation of calls and virtual case experiences. The project aims to provide deep insights into call volumes, case resolutions, and overall customer experiences within a call center environment.
 
 # 📚Goals:
 
