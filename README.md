@@ -37,6 +37,8 @@ This repository contains an insightful FDIC Failed Bank List Analysis Dashboard 
 This repository hosts an engaging Power BI Analysis Dashboard focused on providing detailed insights into sales amounts and product category performance. The project's primary aim is to analyze sales data across various product categories, offering a comprehensive overview of revenue and category trends.
 - [Project-10: Regional Analysis of Adventure Works](https://github.com/olulekeomotoba/Project-10)
 This repository showcases an illuminating Power BI Analysis Dashboard specifically designed to delve into product quantity distribution across different states, coupled with a detailed examination of unit prices. The project aims to dissect regional data to discern variations in product quantities and pricing structures.
+- [Project-11: Tesla Stocks Analysis Dashboard](https://github.com/olulekeomotoba/Project-11)
+This repository showcases a comprehensive Power BI Analysis Dashboard meticulously crafted to dissect the intricacies of Tesla stock data. The project is specifically designed to scrutinize the monthly, yearly, and quarterly trends in close, high, low, and adjusted close prices, offering insights into Tesla's stock performance over various timeframes.
 
 # 📚Goals:
 
