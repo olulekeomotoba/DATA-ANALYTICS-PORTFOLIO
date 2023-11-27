@@ -35,7 +35,7 @@ This repository hosts a comprehensive Global Terrorism Analysis Dashboard built 
 This repository contains an insightful FDIC Failed Bank List Analysis Dashboard crafted with Power BI. The project focuses on analyzing and visualizing the count of bank closures by state and month, providing a detailed examination of banking failures across various regions and time frames.
 - [Project-9: Total Sales And Product Report of Adventure Works](https://github.com/olulekeomotoba/Project-9)
 This repository hosts an engaging Power BI Analysis Dashboard focused on providing detailed insights into sales amounts and product category performance. The project's primary aim is to analyze sales data across various product categories, offering a comprehensive overview of revenue and category trends.
-- [Project-10: Regional Analysis of AdventureWorks](https://github.com/olulekeomotoba/Project-10)
+- [Project-10: Regional Analysis of Adventure Works](https://github.com/olulekeomotoba/Project-10)
 This repository showcases an illuminating Power BI Analysis Dashboard specifically designed to delve into product quantity distribution across different states, coupled with a detailed examination of unit prices. The project aims to dissect regional data to discern variations in product quantities and pricing structures.
 
 # 📚Goals:
