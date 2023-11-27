@@ -31,6 +31,8 @@ This repository hosts a robust Call Centre Trends Analysis project utilizing Pow
 This repository hosts an insightful Ekiti State Elections Dashboard developed using Power BI. The project provides a comprehensive analysis of total polling results across various local governments during the Ekiti State elections, offering valuable insights into voting patterns, turnout rates, and candidate performance.
 - [Project-7: Global Terrorism Analysis](https://github.com/olulekeomotoba/Project-7)
 This repository hosts a comprehensive Global Terrorism Analysis Dashboard built using Power BI. The project offers in-depth insights and analytics regarding worldwide terrorist activities, encompassing attack details, targets, weapons used, terrorist groups involved, and analysis based on regions and countries.
+- [Project-8: FDIC Failed Bank List](https://github.com/olulekeomotoba/Project-8)
+This repository contains an insightful FDIC Failed Bank List Analysis Dashboard crafted with Power BI. The project focuses on analyzing and visualizing the count of bank closures by state and month, providing a detailed examination of banking failures across various regions and time frames.
 
 # 📚Goals:
 
