@@ -33,6 +33,8 @@ This repository hosts an insightful Ekiti State Elections Dashboard developed us
 This repository hosts a comprehensive Global Terrorism Analysis Dashboard built using Power BI. The project offers in-depth insights and analytics regarding worldwide terrorist activities, encompassing attack details, targets, weapons used, terrorist groups involved, and analysis based on regions and countries.
 - [Project-8: FDIC Failed Bank List](https://github.com/olulekeomotoba/Project-8)
 This repository contains an insightful FDIC Failed Bank List Analysis Dashboard crafted with Power BI. The project focuses on analyzing and visualizing the count of bank closures by state and month, providing a detailed examination of banking failures across various regions and time frames.
+- [Project-9: Total Sales And Product Report of Adventure Works](https://github.com/olulekeomotoba/Project-9)
+This repository hosts an engaging Power BI Analysis Dashboard focused on providing detailed insights into sales amounts and product category performance. The project's primary aim is to analyze sales data across various product categories, offering a comprehensive overview of revenue and category trends.
 
 # 📚Goals:
 
