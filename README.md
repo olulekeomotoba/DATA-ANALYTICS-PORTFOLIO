@@ -30,6 +30,7 @@ This repository hosts a robust Call Centre Trends Analysis project utilizing Pow
 - [Project-6: Ekiti State Electoral Analysis 2014-2022](https://github.com/olulekeomotoba/Project-6)
 This repository hosts an insightful Ekiti State Elections Dashboard developed using Power BI. The project provides a comprehensive analysis of total polling results across various local governments during the Ekiti State elections, offering valuable insights into voting patterns, turnout rates, and candidate performance.
 - [Project-7: Global Terrorism Analysis](https://github.com/olulekeomotoba/Project-7)
+This repository hosts a comprehensive Global Terrorism Analysis Dashboard built using Power BI. The project offers in-depth insights and analytics regarding worldwide terrorist activities, encompassing attack details, targets, weapons used, terrorist groups involved, and analysis based on regions and countries.
 
 # 📚Goals:
 
